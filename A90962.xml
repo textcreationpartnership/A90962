@@ -1,0 +1,1858 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The city-remonstrance remonstrated. Or An answer to Colonell John Bellamy, his Vindication thereof, in justification of The moderate reply to the city-remonstrance. / By I.P.</title>
+            <author>Price, John, Citizen of London.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90962</idno>
+            <idno type="STC">Wing P3339</idno>
+            <idno type="STC">Thomason E345_18</idno>
+            <idno type="STC">ESTC R200996</idno>
+            <idno type="EEBO-CITATION">99861591</idno>
+            <idno type="PROQUEST">99861591</idno>
+            <idno type="VID">113729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113729)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E345[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The city-remonstrance remonstrated. Or An answer to Colonell John Bellamy, his Vindication thereof, in justification of The moderate reply to the city-remonstrance. / By I.P.</title>
+                  <author>Price, John, Citizen of London.</author>
+               </titleStmt>
+               <extent>[4], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Paine, for Henry Overton, and are to be sold at his shop at the entring into Popes head alley out of Lumbard street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>I.P. = John Price.</note>
+                  <note>A reply to: Bellamie, John. A vindication of the Humble remonstrance and petition of the Lord Major, aldermen, and commons, of the city of London, in Common-Councell assembled, presented to both Houses of Parliament, the 26 of May, 1646 (Wing B1818).</note>
+                  <note>Annotation on Thomason copy: "July 24th 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bellamie, John, d. 1654. --  Vindication of the Humble remonstrance and petition of the Lord Major, aldermen, and commons, of the city of London, in Common-Councell assembled, presented to both Houses of Parliament, the 26 of May, 1646 --  Early works to 1800.</term>
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113729:1"/>
+            <pb facs="tcp:113729:1"/>
+            <p>THE
+CITY-REMONSTRANCE
+Remonſtrated.</p>
+            <p>OR
+An anſwer to Colonell <hi>John Bellamy,</hi>
+his <hi>Vindication</hi> thereof, in juſtification
+OF
+The Moderate Reply to the
+CITY-REMONSTRANCE.
+By <hi>I. P.</hi>
+            </p>
+            <q>
+               <bibl>18. MAT. 6.</bibl>
+               <p>But who ſo ſhall offend one of theſe little ones which believe
+in me; it were better that a Mill-ſtone were hanged about his
+neck, and that he were drowned in the midſt of the Sea.</p>
+            </q>
+            <q>
+               <bibl>2 PET. 2. 20. 21.</bibl>
+               <p>For if after they have eſcaped the pollutions of the world
+through the knowledge of the Lord and Saviour Jeſus Chriſt;
+they are again intangled therein, and overcome, the latter end
+is worſe with them then the beginning.</p>
+               <p>For it had been better for them not to have known the way
+of righteouſneſſe, then after they had known it, to turn from the
+holy commandement delivered unto them.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by Tho. Paine, for Henry Overton and are to be
+ſold at his Shop at the entring into Popes head alley out of Lumbard ſtreet. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113729:2"/>
+            <pb facs="tcp:113729:2"/>
+            <head>
+               <g ref="char:leaf">❧</g>To his honour'd Friend Colonell
+JOHN BELLAMY.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Awning Flattery ſpoyls many; but
+<hi>plain dealing</hi> is every mans duty:
+The <hi>wounds</hi> of a Friend will <hi>heale,</hi>
+when the <hi>kiſſes</hi> of an Enemy will
+<hi>hurt.</hi> The <hi>City Remonſtrance</hi> is
+<hi>no caracter</hi> of the Cityes <hi>excellency:</hi> Nor your <hi>Vin<g ref="char:EOLhyphen"/>dication</hi>
+thereof, of your <hi>Perfection.</hi> And the truth
+is, the <hi>former Expreſſes</hi> of this worthy City, and the
+<hi>common obſervation</hi> of your old <hi>Profeſſion,</hi> quit<g ref="char:EOLhyphen"/>ted
+our expectations of ſuch a <hi>Remonſtrance</hi> from
+them: And ſuch a <hi>Vindication</hi> from you. For as wee
+doe not expect <hi>Grapes</hi> from <hi>thornes,</hi> ſo neither <hi>ſowre
+Sloes,</hi> from generous <hi>Vines,</hi> as not <hi>Figs</hi> from <hi>thiſtles,</hi>
+ſo neither <hi>prickles</hi> from <hi>Figge-trees;</hi> But it is the <hi>City
+above</hi> which is <hi>only pure,</hi> and the <hi>man at Gods
+right hand,</hi> who is <hi>only Perfect:</hi> And therefore:
+As the <hi>Moon</hi> is not defineable by her <hi>Spots,</hi> Jewels
+<pb facs="tcp:113729:3"/>
+by their <hi>flawes,</hi> nor <hi>Gould</hi> by its <hi>droſſe;</hi> ſo, is not the
+<hi>City</hi> by their <hi>Remonſtrance,</hi> nor your ſelfe by your
+<hi>Vindication</hi> thereof, (though I muſt needs ſay, the
+<hi>pleading</hi> for evill, is worſe then the evill it pleads for,
+and therefore your <hi>Vindication,</hi> then the <hi>Remon<g ref="char:EOLhyphen"/>ſtrance</hi>
+it ſelfe but yet the greatneſſe of the temptati<g ref="char:EOLhyphen"/>on,
+(<hi>viz.</hi> your preſumption of the <hi>Cityes favour,</hi> and
+<hi>Popular applauſe</hi>) calles for more Graines of allow<g ref="char:EOLhyphen"/>ance
+concerning your ſelfe, in the thoughts of your
+Friends. I confeſſe you are once more aſſaulted with a
+<hi>freſh temptation, viz.</hi> to <hi>hate</hi> your friend, (even to
+revenge) for his <hi>plain dealings,</hi> and how it prevailes,
+your <hi>future deportment towards him and his
+Friends,</hi> I mean the Servants of God, differing in
+Iudgement from your ſelfe will helpe mens intelligence
+were wee <hi>to know men after the fleſh,</hi> your former
+acquaintance, and your kindneſſe to me, had held my
+hand from this preſent worke, <hi>but Selfe denyall</hi> is
+both your duty and mine; Your ſtrange <hi>ſiding,</hi> and keen
+<hi>penning</hi> it againſt your Bretheren, makes them <hi>af<g ref="char:EOLhyphen"/>fraid
+of you,</hi> leſt you ſhould be one of thoſe <hi>many,</hi> who
+<hi>in the latter dayes ſhall be offended at the name,
+of Chriſt, betray one another, and bate one ano<g ref="char:EOLhyphen"/>ther;</hi>
+beleeve it, how ever you may flatter your ſelfe,
+you are already come to a neerer degree of open perſecu<g ref="char:EOLhyphen"/>tion
+of the <hi>Saints of God,</hi> then <hi>Haza<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> was unto thoſe
+<pb facs="tcp:113729:3"/>
+blouddy executions againſt <hi>Iſrael</hi> of old, when he ſaid to
+the Prophet, (lamenting at the fore-ſight thereof) <hi>Is
+thy Servant a Dog, that he ſhould do this great
+thing,</hi> 2. Kings 8. 13. the preſent diſtance wherein
+you ſtand, from ſuch proceedings, is not ſo great as the
+<hi>former</hi> was from your preſent practiſes, during the time
+of your old profeſſion; thoſe that begin, not only to <hi>for<g ref="char:EOLhyphen"/>ſake</hi>
+the fellowſhips of their old Companions in the
+wayes of God, but alſo to make them obnoxious to the
+Stroake of the Magiſtrate, as you have done, are poſting
+apace to that irrecoverable ſin, of doing <hi>deſpite to the
+Spirit of Grace,</hi> Heb. 10. 29. I know Sir, theſe are
+cutting words, but their propper tendency, is your perſo<g ref="char:EOLhyphen"/>nall
+good, and the timely prevention, through Gods
+mercy, of your future evill, for how ever you take me,
+my heart-knowing God, and my thoughts-knowing
+conſcience can witneſſe for me, that I am,</p>
+            <closer>
+               <signed>Your reall and faithfull Friend
+J. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113729:4"/>
+            <pb facs="tcp:113729:4"/>
+            <head>THE
+CITY REMONSRANCE
+Remonſtrated.</head>
+            <p>
+               <hi>Firſt, Mr. Bellamy,</hi> Let us conſider the title page of your Booke.</p>
+            <p>
+               <hi>Secondly,</hi> We ſhall mind your booke it ſelfe.</p>
+            <p>Your Title page begins thus.</p>
+            <p>
+               <hi>A VINDICATION.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">W</seg>Hat cauſe is ſo bad that an advocate can<g ref="char:EOLhyphen"/>not
+be had for gold or ſilver, or ſome<g ref="char:EOLhyphen"/>thing
+equivalent, to plead the ſame?
+What Declarations or Remonſtran<g ref="char:EOLhyphen"/>ces,
+were ever pen'd againſt the Parlia<g ref="char:EOLhyphen"/>ment?
+Which had not ſome under the
+ſpecious pretences and colour of Reli<g ref="char:EOLhyphen"/>gion
+and libertie to abet the ſame?
+<hi>Abſolom</hi> will find an <hi>Achitophel</hi> (a
+cunning Counceller) to draw away the people in the ſimplicitie
+of their hearts, knowing nothing to accommodate his rebellion
+againſt his owne father, the Idolatrous <hi>Epheſians</hi> had their cove<g ref="char:EOLhyphen"/>teous
+<hi>Demetrius,</hi> to advance the greatneſſe of their <hi>Diana,</hi> againſt
+the preachings of the Apoſtles; and the ſuperſtitious Jewes had
+their eloquent <hi>Tertullus</hi> to repreſent the Apoſtle <hi>Paul,</hi> for his
+zeale to his maſter a peſtilent fellow, a pernicious incendiary,
+a notorious Sectary, <hi>Acts</hi> 25. 5. And as it was in the beginning
+ſo it is now, witneſſe the preſent caſe. <hi>A moderate reply to the City
+Remonſtrance,</hi> In juſtification of the Parliaments innocencie,
+from the prejudice raiſed againſt them, by the ſaid Remon<g ref="char:EOLhyphen"/>ſtrance,
+(as ſhall fully be evidenced before wee have done, being
+preſſed hereunto) meets with Adverſarie upon adverſarie, re<g ref="char:EOLhyphen"/>preſenting
+the Author of the ſaid Reply, a lyer becauſe
+he tells the truth, an Heretique, a Sectary, becauſe a friend to
+the Parliament, an incendiary between the Parliament and Ci<g ref="char:EOLhyphen"/>ty,
+becauſe impleading the Remonſtrance, he implores favour
+from the Parliaments hands in its Authors behalfe, the Replyer
+is aſſaulted with keene oppoſitions, the Remonſtrance juſtified
+<pb n="4" facs="tcp:113729:5"/>
+by a double vindication, both comming forth in one day, ſtri<g ref="char:EOLhyphen"/>ving
+for prioritie in the execution of vengeance, according to
+all their might, and length of their arme, againſt the ſaid replyer,
+the one written by Mr. <hi>John Bellamy,</hi> a man (we preſume) well
+known to us, the other, a partner in the ſame imployment,
+whoſe learning and reading, whoſe ſtile and dialect, whoſe tem<g ref="char:EOLhyphen"/>per
+and genius, ſo far as perceivable by his profound vindicati<g ref="char:EOLhyphen"/>on
+of the Citie Remonſtrance, argues his birth, breeding and
+education, not far from <hi>Billingsgate,</hi> for he hath the perfect art
+of railing, and raving, and non-ſence writing, calling men Se<g ref="char:EOLhyphen"/>ctaries,
+Heretiques Scihſmatique Lyers, Incendiaries, by roat,
+more befitting unreaſonable ſcoulds then rationall men, and
+therefore ſhall take no farther notice of his non-ſence ſcribling.</p>
+            <p>OF THE HUMBLE REMONSTRANCE, &amp;c.</p>
+            <p>Court Complements are worth nothing, and the humilitie of
+of the Remonſtrance is better diſcerned by the matter it ſelfe
+then the title thereof, your humble ſervant (ſaith the Cavaleer)
+though his deſire to ſerve you is by cutting your throate; the
+hand declares (when the tongue diſſembles) the intentions of
+the mind. A Remonſtrance invective againſt the Parliament,
+and yet humble, this is ſomewhat a kinne to a contradiction,
+Epithites alters not the nature of Actions, the humilitie of the
+Remonſtrance; will be ever an annon before our eyes, and as
+we apprehend it, we ſhall ſpeake unto it.</p>
+            <p>OR AN ANSWER TO TWO LATE LIBELLS
+PUBLISHED BY TWO ANONYMUSSES.</p>
+            <p>1, And why <hi>two libells</hi> Mr. <hi>Bellamy?</hi> you might have forborne
+that, untill you had proved them ſo, but it ſeemes this is a taſt of
+your Presbyteriall juſtice, we are like to find from you, when
+power is in your hands: Firſt paſſe ſentence, and after examine,
+what ever it is, becauſe written (as you ſuppoſe) by an Anti<g ref="char:EOLhyphen"/>presbyter,,
+it muſt needs be a Libell, is this Chriſtian Mr. <hi>Bella<g ref="char:EOLhyphen"/>my,</hi>
+to condemn mens perſons for Heretiques: Sectaryes, Schiſ<g ref="char:EOLhyphen"/>matiques
+(though you never define the things you affirme,
+their doctrines for errours, untruths, blaſphemies (though you
+heare not what they ſay) their writings for lyes, falſity, libells,
+ſo ſoone as ever you looke on their bookes.</p>
+            <p>But Secondly, muſt they needs be libells, becauſe reflecting
+<pb n="5" facs="tcp:113729:5"/>
+upon <hi>the City Remonſtrance,</hi> is not the <hi>Remonſtrance</hi> it ſelfe re<g ref="char:EOLhyphen"/>flecting
+upon the High Court of Parliament, (by this kind
+of arguing) what would follow?</p>
+            <p>Thirdly, Are they therefore libells, becauſe written by <hi>two
+Anonymuſſes?</hi> if ſo, how many <hi>Presbyterian Libells</hi> doe you fell
+in a yeare? may it not as well be the modeſty of ſome to for<g ref="char:EOLhyphen"/>beare:
+as the impudency of others (as the caſe may ſtand) to
+affix their names to their writings, ſome men will bluſh even in
+a good cauſe, when others will brazen their foreheads, and au<g ref="char:EOLhyphen"/>daciouſly
+ſet to their names to that which is bad, apprehenſion
+of ſelfe abilities, wit, and worth, and affectation of popularity be<g ref="char:EOLhyphen"/>ing
+ſtrong temptations hereunto, but what are names to things?
+the Author to the matter? doth this adde or take away? it is the
+weakeneſſe of the Reader; when the knowledge of the Author
+helpes his opinion, as touching the matter, he that ſhall judge
+the better of your <hi>vindication</hi> becauſe <hi>Iohn Bellamy</hi> appeares in
+the frontiſpiece, or the worſe of the <hi>reply</hi> becauſe written by an
+<hi>Anonymus,</hi> is more acquainted with <hi>titles</hi> then bookes, and re<g ref="char:EOLhyphen"/>gards
+more the authority of mens <hi>perſons</hi> then <hi>Arguments,</hi> but
+becauſe ſome men cannot find fault with that that is, they will
+be quibling at that that is not, and truly Sir, by that
+time your <hi>vindication</hi> hath been throughly examined; it willap<g ref="char:EOLhyphen"/>peare
+to have been as much for your credit, if you had crouded
+your ſelfe among the ſect of <hi>Anonymuſſes;</hi> as to ſtand out by the
+name of <hi>Iohn Bellamy.</hi> In the title page thereof. And the truth
+is of all Sects, that is the moſt innocent, for though they differ
+from one another in many points, yea all the heavens over, yet
+they never ſeeke the ruine and diſtruction of one another, may
+not you learn of them Mr. <hi>Bellamy?</hi>
+            </p>
+            <p>Fourthly, In the fourth place, are they therefore, <hi>Libells</hi> be<g ref="char:EOLhyphen"/>cauſe
+containing in them, lyes, falſities, untruths? as for one of
+thoſe bookes, <hi>viz. the Intereſt of England maintained,</hi> I never
+read, and therefore ſhall not at all intermeddle therewith, but
+leave it to the Authors juſtification, as for the other. <hi>viz.
+The moderate reply to the Citie Remonſtrance.</hi> I confeſſe I have read
+it over and over, once and againe, and however there may poſ<g ref="char:EOLhyphen"/>ſibly
+be <hi>miſtakes</hi> more then enough (for the holy Scripture it
+<pb n="6" facs="tcp:113729:6"/>
+ſelfe excepted, where is that writing without miſtakes, ſurely
+neither this <hi>Vindication,</hi> nor the <hi>City Remonſtrance</hi> are any)
+but I am ſo perſwaded of that ſpirit that fram'd it, that he would
+not willingly write lyes for all the eſtate and preferment either
+<hi>Civill</hi> or <hi>Martiall</hi> that the Citie or Kingdome can conferre up<g ref="char:EOLhyphen"/>on
+him, but let us ſee what miſtakes, untruths, or lyes you can
+find therein, that ſo we may the better know the nature of a li<g ref="char:EOLhyphen"/>bell
+hereafter.</p>
+            <p>Fiftly, In the laſt place, are they therefore <hi>Libells,</hi> becauſe
+little bookes, though the word is alwayes taken with us in the
+bad ſence, yet it properly ſignifies nothing more, why then
+your <hi>Vindication,</hi> yea <hi>the Remonſtrance</hi> it ſelfe, with thoſe you
+ſpeake of, may all paſſe for <hi>Libells,</hi> and the Authors of them all
+for ſo many <hi>Libellers.</hi>
+            </p>
+            <p>We have done with your title-page, wherein you have been
+very free in accuſations and promiſes, but how ſhort you are in
+the <hi>proofe</hi> of the one, and <hi>performance</hi> of the other, your booke
+will declare.</p>
+            <p>It begins thus in Capitall letters.</p>
+            <q>A VINDICATION OF THE CITY REMONSRANCE.</q>
+            <p>That is,</p>
+            <p>A <hi>Vindication</hi> of that which is <hi>invindicable,</hi> and therefore bet<g ref="char:EOLhyphen"/>ter
+it would be that both the <hi>City Remonſtrance,</hi> and the <hi>Vindica<g ref="char:EOLhyphen"/>tion</hi>
+thereof were written in Aſhes, with the finger of vanitie,
+then in marble with the pen of a Diamond, except men ſhould
+looke upon it as a beauty ſpot, the better to ſet off the other
+more faire, beautifull and praiſe-worthy expreſſes, from the Ci<g ref="char:EOLhyphen"/>ty
+of <hi>London.</hi>
+            </p>
+            <p>But to come to your Booke.</p>
+            <p>
+               <hi>You begin with a truth in the poſition and proofe, to this
+purpoſe.</hi> Sathans instruments like Athaliah, 2 <hi>King.</hi> 11. have al<g ref="char:EOLhyphen"/>wayes
+accuſed others firſt, whereof themſelves are chiefly guilty, even
+ſo the diſturbers of the quiet and peace of the Church and State, <hi>viz.</hi>
+the Heretiques and Sectaries, which of late in this Nation doe ſo
+much abound, cry out upon thoſe which endeavour their diſcovery, as
+the only perturbers of the Parliaments proceedings.</p>
+            <p>
+               <hi>Anſ.</hi> It was the obſerved cuſtome of the Biſhops Chaplins
+(great Apoſtates in their latter dayes) that they did very fre<g ref="char:EOLhyphen"/>quently
+<pb n="7" facs="tcp:113729:6"/>
+carrie on the Doctrinall part of their Sermons after a
+very ſollid and orthodox manner, but mar'd all in the Applicati<g ref="char:EOLhyphen"/>on
+thereof, bending the force of all that they ſaid againſt the
+<hi>peaceable in the Earth,</hi> the ſons and daughters of the moſt high
+God, under the black and ugly vizards of <hi>Heretiques and Secta<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es,
+diſturbers of the quiet and peace of the Church and State,</hi> even
+ſo Mr. <hi>Bellamy,</hi> whoſe former wayes were the very ſelfe ſame
+(as ſhall be proved anon) upon which the mallice, ignorance,
+and envie of thoſe preſent times writes. <hi>Hereſies, Sectariſme,
+Diſturbance of the quiet and peace of the Church and State,</hi> layes
+downe a truth in the poſition, cleares it by Scripture, but bends
+the application of it againſt others, though it turnes back like a
+ſharpe ſword into his owne ſide, for ſee his applycation of the
+aforeſaid truth.</p>
+            <p>
+               <hi>Mr. Bellamy.</hi> A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by two late libells put forth in anſwer to the City
+Remonſtrance, and in defence, of Heretiques, and Sectaries doth ap<g ref="char:EOLhyphen"/>peare.</p>
+            <p>But Sir, were you as <hi>wiſe,</hi> or rather <hi>conſcientions</hi> in giving to
+every one his portion, and <hi>to devide the word of truth aright,</hi> as
+you ſeeme to be <hi>able</hi> to obſerve truth from the word, you
+would apply it elſe where, and nor where you have done, for if
+you examine things by their nature, or by their effects, you ſhall
+not find <hi>the moderate Reply.</hi> but the <hi>City Remonſtrance,</hi> to be <hi>the
+diſturber of the quiet and peace of the Church and State,</hi> witneſſe the
+diviſions which it hath wrought in <hi>Bedfordſhire. Hartfordſhire,
+Norfolke, Suffol<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and in many other places<g ref="char:punc">▪</g> (an accompt
+whereof you may have in ſeaſon,) raiſing up parties after <hi>Lon<g ref="char:EOLhyphen"/>dons</hi>
+example, to ſet forth ſuch peremptory Remonſtrances to
+the Parliament and people, as never were known in this King<g ref="char:EOLhyphen"/>dome
+before, though (through the bleſſing of God) they have
+been cruſht in moſt places, and the truth is, the printing of
+twenty thouſands of the ſaid Remonſtrances; (as intelligence
+informes) the diſperſions thereof, both in all the parts of this
+Kingdome, and beyond the ſeas, with the ſtrong and powerfull
+enforcements thereof; by the Miniſters upon the people after
+<hi>Londons</hi> example to doe the like (as time and opportunitie may
+evidence to the World) did argue the deſires of many the prime
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>romoters of the city Remonſtrance, to be no leſſe then to make
+<pb n="8" facs="tcp:113729:7"/>
+               <hi>diviſions,</hi> and <hi>to diſturbe the peace and quiet of the Church and State.</hi>
+            </p>
+            <p>Mr. <hi>Bellamy,</hi> You proceed to make good your charge a<g ref="char:EOLhyphen"/>gainſt
+<hi>two Libells, viz.</hi> the one a <hi>Moderate reply to the City Re<g ref="char:EOLhyphen"/>monſtrance:</hi>
+the other <hi>the Intereſt of England maintained,</hi> you en<g ref="char:EOLhyphen"/>counter
+chiefly with the firſt: and I ſhall ſecond the ſame, and
+leave the other; having never perul'd it.</p>
+            <p>Firſt, you acknowledge the <hi>City Repreſentative,</hi> is made up
+and choſen of the <hi>City Collective,</hi> and I likewiſe acknowledge
+<hi>the Kingdome Repreſentative</hi> to be made up and choſen by <hi>the
+Kingdome Collective,</hi> neither is there any thing charged as cri<g ref="char:EOLhyphen"/>minall
+by the Reply in this conſtitution, you grant this likewiſe
+a truth that <hi>it is more common then commendable, for men truſted
+with other mens goods to behave themſelves to their truſtees hurt.</hi> But
+you demand, what doth this reflect upon the <hi>City Repreſenta<g ref="char:EOLhyphen"/>tive,</hi>
+or its <hi>Remonſtrance?</hi> Since you will not ſee, you ſhall ſee;
+except with your tongu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you will deny, what you ſee with
+your eyes (a common thing in theſe back ſliding times) you tell
+us <hi>againſt whom this charge is made good:</hi> and you tell us the truth,
+<hi>viz.</hi> againſt <hi>ſuch, who being truſted with the ſoules of</hi> a people <hi>by
+their common conſent and choice to be their</hi> Paſtor. (Whether Pres<g ref="char:EOLhyphen"/>byterian
+or Independent, Parrochiall or Congregationall) <hi>have
+in ſtead of feeding</hi> them <hi>with the ſinceere Milke of the word, that they
+may grow thereby fed them with the fooliſh fancies of their owne brain,
+vi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> that ſuch a kind of government, (ſo and ſo diſpoſed and dige<g ref="char:EOLhyphen"/>geſted
+into a Parochiall<g ref="char:punc">▪</g> Claſſicall, Provinciall and Synodiall
+conſtitution, with power and authority here and there placed,
+to compell and enforce men to ſubmit thereunto, though a<g ref="char:EOLhyphen"/>gainſt
+their owne judgements and conſciences, and that the
+Magiſtrate ought to exact uniformitie from all that live under
+them) (is jure Divino) <hi>a meere fancie of their owne braine</hi> and
+<hi>in ſtead of keeping them together in the bond of unity, have broken them
+to pieces with rents and diviſions, viz.</hi> repreſenting thoſe who a<g ref="char:EOLhyphen"/>gree
+not with them, to be Heretiques, Sectaries, Schiſmatiques,
+and what not? and thus <hi>re<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ding a ſunder</hi> a people of as ſweet na<g ref="char:EOLhyphen"/>ture,
+heavenly ſpirit, and loving converſation in former times,
+as the world hath known. It is confeſt Mr. <hi>Bellamy, that theſe theſe
+are the men which behave themſelves to their truſtees hurt,</hi> you pro<g ref="char:EOLhyphen"/>ceed
+to anſwer what the Replyer tells you, <hi>viz.</hi> that <hi>there are</hi> 4.
+<pb n="9" facs="tcp:113729:7"/>
+               <hi>caſes wherein the City collective, is not bound to the City Repreſenta<g ref="char:EOLhyphen"/>tive,
+but ought in duty to diſſent from it, if not to proteſt againſt it.</hi>
+            </p>
+            <p>
+               <hi>Moderate Reply.</hi> Firſt when the City repreſentative, acts, in a di<g ref="char:EOLhyphen"/>rect,
+evident &amp; obvious maner, againſt the expreſſe wil &amp; word of God</p>
+            <p>2. When in the like plaine and direct manner, it acts againſt the
+apparent welfare, peace, and good of the Kingdome.</p>
+            <p>3. When it acts after the ſame manner, againſt the proper end of its
+owne being, the Cities welfare.</p>
+            <p>4. When it acts beyond the bounds, limits, and extents appointed,
+to the endangering of all its immunities, and freedomes.</p>
+            <p>This (you affirme) is the replyers <hi>plat-forme, or ground-work
+of his after building,</hi> and ſcoffingly ſay <hi>it is ſutable thereunto,</hi>
+though you except not againſt any one of theſe propoſitions,
+but ſay you, <hi>he dares not affirme that the City repreſentative doth
+act in any one of the foure caſes,</hi> it may be it was more his mode<g ref="char:EOLhyphen"/>ſty
+to forbeare, then his impudency, in caſe he had charged the
+City by that Remonſtrance, to act in them all, and had it been
+Mr. <hi>John Bellamies</hi> act, as it was the act of the <hi>City,</hi> I would
+have undertooke (and would have looked upon it as no great
+task) to have proved him acting againſt every one of them, and
+for that time made a ſeparation, a ſchiſme, from the ſociety of
+Anonimuſſes. You paralel the <hi>City Repreſentatives,</hi> &amp; the <hi>City
+Collective</hi> unto the <hi>Kingdome Repreſentative</hi> and <hi>the Kingdome
+Collective,</hi> &amp; I freely grant that the paralel holds good (I mean as
+touching the conſtitution of the Kingdome Repreſentative,
+and City repreſentative<g ref="char:punc">▪</g> viz. by the collective body of the one,
+and of the other, though not in reſpect of their power) and am
+not a fraid to grant it likewiſe, that if the <hi>Kingdome repreſenta<g ref="char:EOLhyphen"/>tive,
+ſhould act in a direct, plaine and obvious manner, againſt the ex<g ref="char:EOLhyphen"/>preſſe
+will, and word of God, againſt the apparent welfare peace, and
+good of the Kingdom<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, &amp;c. That the Kingdome collective, ought in
+duty not to conſent unto it.</hi> As for the inſtance which you bring
+from Mr. <hi>Burtons</hi> affirmation from his 51 &amp; 52. pages of his
+book called <hi>the vindication of thoſe Churches commonly called In<g ref="char:EOLhyphen"/>dependents,</hi>
+to make good your logick, had not your ſilver
+ſhrines of the Preſbyterian Temple dazled your eyes, and d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<g ref="char:EOLhyphen"/>med
+your ſight you might have found aſſertions in abundance
+from the Presbyterian Authors, which differ no more from
+<pb n="10" facs="tcp:113729:8"/>
+what Mr. <hi>Burton</hi> ſaith in that point, then twelve pence differs
+from a ſhilling, pleaſe you Sir examine Mr. <hi>George Gilleſpy<g ref="char:punc">▪</g>
+               </hi> in the
+13. Page of his book cal'd <hi>Nihil reſpondes,</hi> written againſt Mr.
+<hi>Coleman</hi> and Mr. <hi>Samuel Rutherford</hi> in the laſt page of the Epi<g ref="char:EOLhyphen"/>ſtle
+to the Reader, in his book called <hi>the divine right of
+Chu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch g<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vernment and Excommunication.</hi> And ſee if he ſaith not
+as much and more of Mr. <hi>Burtons</hi> ſence in that point, then Mr.
+<hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> himſ<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fe hath ſaid, I for beare to ſet downe the words,
+as ſuppoſing you are not without the books I referre you to,
+and if th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe two will not ſuffice (as occaſion is offer'd) you ſhall
+have 20 and <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, of the Presbyterian party that ſhalbe produced
+to have ſai<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame; but to the poynt in hand, ſuppoſe <hi>the re<g ref="char:EOLhyphen"/>preſentative
+Kingdome</hi> (that, I may give you an inſtance, in a caſe,
+as you have given to the replyer) ſhould make a law for the
+hanging, burning, or baniſhing all ſuch as ſhall deny the Popes
+ſupremacy, the reall preſence in the Sacrament of the Lords
+ſupper, or other groſſe popiſh abſurdityes; ſuppoſe they ſhould
+eſtabliſh Mahomatiſme &amp;c. Is not the <hi>Kingdom collective, bound in
+conſcience: and duty, to diſſent from it, if not to proteſt againſt it,</hi> ſup<g ref="char:EOLhyphen"/>poſe
+they ſhould command us to abjure <hi>Ieſus, Chriſt,</hi> and turne
+Iewes, ought not you &amp; <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. &amp; every man in the Kingdome to <hi>diſ<g ref="char:EOLhyphen"/>ſent
+from it, if not to protest againſt it,</hi> nay ſuppoſe that they ſhould
+ſet up a government in a direct and knowne oppoſition, <hi>to the
+word of God, and the example of the beſt reformed Churches, ought
+we not to d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſent from it &amp;c.</hi> For this (as <hi>Paul</hi> did referre the <hi>A<g ref="char:EOLhyphen"/>thenians</hi>
+to one of their owne Poets) ſo ſhall I you to your own
+Oracle, <hi>the City Remonſtrance,</hi> where you do in expreſſe terms af<g ref="char:EOLhyphen"/>firme,
+<hi>&amp; from the botome of your heart, you do ſeriouſly profeſſe before
+Almighty God, that you do not conceive it in the power of any humane
+Authority</hi> (King, Lords, Commons, together or apart, in Parlia<g ref="char:EOLhyphen"/>ment,
+or out of Parliame<g ref="char:cmbAbbrStroke">̄</g>t, <hi>to diſcharge or abſolve you from adhering
+to the Covenant,</hi> ſee Mr. <hi>Bellamy,</hi> if you your ſelf with al your bre<g ref="char:EOLhyphen"/>then,
+Remonſtrants; do not make good w<hi rend="sup">ht</hi> I have affirm'd viz.
+that when the Kngdome repreſentative <hi>acts in a direct evident
+&amp; obvious manner, againſt the expreſſe will &amp; word of God, the King<g ref="char:EOLhyphen"/>dome
+collective ought in duty to diſſent from it, if not to proteſt againſt
+it,</hi> and thus Mr. <hi>Bellamy</hi> your foot is taken in that very ſnare
+w<hi rend="sup">ch</hi> you laid for your Brethren, &amp; now Sir ſhould I as weakly
+<pb n="11" facs="tcp:113729:8"/>
+ſult over you, as you, do over the Replier, I may ſay, <hi>what I pray
+you will tha<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> produce think you in the common Wealth<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er Kingdom of
+England, and anon after<g ref="char:punc">▪</g> if this be not, then I pray tell me, what is the
+highway to deſolution of Parliaments, and conſequently to the diſtru<g ref="char:EOLhyphen"/>cton
+of the Kingdome,</hi> and therefore have not I as good reaſon to
+ſay to you, and the reſt of the Remonſtrants, as you had to the
+Replyer, <hi>either ſhew me</hi> whether the Remonſtrants have not
+ſaid as much as the replyer, <hi>or elſe confeſſe your error, and cry pec<g ref="char:EOLhyphen"/>cavimus,</hi>
+but to go on the Replier ſaith,</p>
+            <p>
+               <hi>All which granted as cannot be denied:</hi> You demand <hi>what he
+meanes by all which granted, as cannot be denied,</hi> I anſwer for him,
+that ſurely he meanes nothing but what he did affirme: Viz
+The undoubted truth of thoſe 4 concluſions, for he had ſaid no
+more, although he might have made it very good, that the <hi>Com<g ref="char:EOLhyphen"/>mon
+cou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cell</hi> had acted in all and every one of the 4. fore-menti<g ref="char:EOLhyphen"/>oned
+caſes; I ſhall inſtance in the firſt of the 4 and if that be clea<g ref="char:EOLhyphen"/>red
+that the <hi>Common-councell,</hi> by their Remonſtrance did act <hi>in a
+direct, evident, and obvious manner, againſt the expreſſe will and word
+of God,</hi> it will follow, that they did act againſt the apparent
+welfare of City and Kingdome, &amp;c.</p>
+            <p>LET VS TRY THEN:</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>WORD OF
+GOD.</hi>
+                     </cell>
+                     <cell>CITY REMONSTRANCE.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <q>
+                           <bibl>Rom. 14, 5. </bibl>
+                           <p>Let
+every man he fully
+perſwaded in his own
+minds.</p>
+                        </q>
+                     </cell>
+                     <cell>That as we are ſubjects of one Kingdom,
+ſo all may be equally required (be they per<g ref="char:EOLhyphen"/>ſwaded
+in their own minds, or not perſwa<g ref="char:EOLhyphen"/>ded
+to yeeld obedience to the government
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> forth, or to be ſet forth by Parliament.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <q>
+                           <bibl>Rom. 14. 13.</bibl>
+                           <p> That
+no man put a ſtum<g ref="char:EOLhyphen"/>bling
+block or an oc<g ref="char:EOLhyphen"/>caſion
+to fall, in b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+brothers w<gap reason="illegible" resp="#TECH" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y<g ref="char:punc">▪</g>
+                           </p>
+                        </q>
+                     </cell>
+                     <cell>
+                        <p>That all ſuch Sectaries as conforme not
+to the publique Diſcipline eſtabliſhed, or to
+See ſtabliſhed may be fully declared againſt,
+and ſome effectuall courſe ſetled for pro<g ref="char:EOLhyphen"/>ceeding
+againſt ſuch
+perſons. 5. <hi>Petition.</hi>
+                        </p>
+                        <p>Heare is a ſtu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>bling<g ref="char:EOLhyphen"/>block
+viz. a menace in a
+Brothers way.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="12" facs="tcp:113729:9"/>
+                        <q>
+                           <bibl>
+                              <hi>Deut,</hi> 19. 15.</bibl>
+                           <p>At the mouth of
+two or three wit<g ref="char:EOLhyphen"/>neſſes,
+ſhall every
+thing be eſtabliſhed.</p>
+                        </q>
+                     </cell>
+                     <cell>That Quarter-man may be brought to ſome
+exemplary puniſhment, for the affront done
+by him &amp;c. Though no ſuch thing was ever
+proved by one witneſſe, or teſtimony, that
+what he did, was any affront done to the
+priviledges, and government of the City.
+Hang him, hang him, what hath he done.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <q>
+                           <bibl>Mat. 7. 12.</bibl>
+                           <p> As
+you would that
+men ſhould doe
+unto you, ſo doe
+unto them, for
+this is the Law
+and the Prophets.</p>
+                        </q>
+                     </cell>
+                     <cell>
+                        <p>Page 3. We will not receive impreſſion of any
+forced conſtruction of the Covenant. Com<g ref="char:EOLhyphen"/>pare
+this with page the 7th.</p>
+                        <p>The 4. Petition. That no perſon diſaf<g ref="char:EOLhyphen"/>fected
+to Presbyterian Government, may be
+imployed in any place of publique truſt, but
+ſome effectuall courſe ſetled to proceed a<g ref="char:EOLhyphen"/>gainſt
+ſuch perſons, (as in the 3. Petition.</p>
+                        <p>
+                           <hi>Presbyteriall government</hi> is not in the Co<g ref="char:EOLhyphen"/>venant,
+therefore an <hi>interpretation; and this
+you force upon others, though you will receive no
+forced conſtruction of the ſame your ſelves.</hi>
+                        </p>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>And thus the <hi>word of God, and the City Remonſtrance, proclaime</hi>
+open warre one againſt the other, and it is no hard matter to
+determine which ſhall get the victory, and take the ſpoyle:
+And for the other 3. caſes the <hi>Replyer</hi> hath ſaid more then your
+<hi>Vindication</hi> (as ſubſtantiall as it is) hath yet diſproved: But let
+us heare what your <hi>Vindication</hi> further affirmeth: The <hi>Replier</hi>
+dealeth with your <hi>Remonſtrance.</hi>
+            </p>
+            <list>
+               <item>1. In the Narrative Part of it.</item>
+               <item>2. Petitionary Part of it.</item>
+               <item>3. The tendency and dangerous effects of both.</item>
+            </list>
+            <p>1. <hi>In the Narative part of it,</hi> he tels you <hi>the phraſe, and Di<g ref="char:EOLhyphen"/>alect
+<pb n="13" facs="tcp:113729:9"/>
+of it,</hi> carried afull complyance with his Majeſties wonted
+declarations againſt the Parliament; to this you anſwer; <hi>it com<g ref="char:EOLhyphen"/>plies</hi>
+in verbis <hi>with a declaration of the Houſe of Commons,</hi> and re<g ref="char:EOLhyphen"/>ferres
+your reader to the <hi>Remonſtrance of the ſtate of the Kingdome,
+Page</hi> 19. where there are in deed the ſame words with your <hi>Re<g ref="char:EOLhyphen"/>monſtrance;</hi>
+the <hi>Replier</hi> tels you <hi>that the phraſe, ſtile, and dialect of
+your Remonſtrance agrees with the Kings wonted declarations againſt
+the Parliament, infinuating into the people, that all manner of Here<g ref="char:EOLhyphen"/>ſies,
+and Sectaries, &amp;c. are tolerated by the Parliament &amp;c.</hi> you
+doe not ſeem to deny ſuch things in the Kings Declarations,
+but you deny any ſuch things in the <hi>City Remonſtrance,</hi> and for
+this you compare the words, of the <hi>Remonſtrance,</hi> with the words
+of the <hi>Replyer,</hi> and demand whether the words of the <hi>Remon<g ref="char:EOLhyphen"/>ſtrance,</hi>
+be the ſame with the words of the <hi>Replier,</hi> I anſwer you,
+the <hi>Replier</hi> did not ſay they were <hi>the ſame,</hi> but yet they were <hi>in<g ref="char:EOLhyphen"/>ſinuations,</hi>
+for the boldeſt and brazen <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ac'd Malignant that is,
+durſt not poſitively affirme it in the Parliaments quarters, and
+ſhould we produce (as a very little labour will ſerve to doe it) ſe<g ref="char:EOLhyphen"/>veral
+paſſages and expreſſions from the tongues, pens, and pulpits
+of ſeverall and divers ſorts of men, who had no ſmall influence
+in the buſineſſe of the City <hi>Remonſtrance,</hi> and reference unto it
+ſince it came out, it would very eaſily appeare what were the
+<hi>Inſinuations</hi> of the <hi>phraſe, ſtile, and dialect thereof,</hi> you ſay <hi>the
+Sectaries are incouraged by their miſconſtruction of that expreſſion in
+the late declaration, concerning tender conſciences,</hi> but how doe you
+know they are incouraged? Surely it muſt be your obſervation
+of them and their expreſſions, as you have occaſion to converſe
+with them, give us but this ground to build aſſertions upon,
+and we can boldly affirme that the <hi>phraſe, ſtile, and dialect of
+the City-Remonſtrance, inſinuates, that the Parliament under a pre<g ref="char:EOLhyphen"/>tence
+of their reſpects to tender conſciences, deſignes a toleration of
+Sectaries, Heretiques &amp;c.</hi> and more, that Malignants, Royaliſts,
+Cavaliers, Ignorant, Scandalous, Prophane, Lewd, and wicked
+perſons, are more imboldned, encouraged, tickled, and com<g ref="char:EOLhyphen"/>forted,
+by this Remonſtrance, then by anything that ever came
+out againſt the Parliament, bleſſed be God, the Parliament hath
+ſtill reſpect unto tender conſciences, ſurely the Remonſtrants
+conſciences were not very tender, in taking any offence thereat,
+<pb n="14" facs="tcp:113729:10"/>
+and if they were not offended, why is there not one word in all
+the Remonſtrance: arguing <hi>ſome care</hi> in reference to <hi>Tender con<g ref="char:EOLhyphen"/>ſcience,</hi>
+nay if there be but <hi>diſaffection unto Presbyteriall govern<g ref="char:EOLhyphen"/>ment</hi>
+in any, though never ſo holy, Godly, learned, fit, able; yet let
+them <hi>not have any place of truſt in martiall or civill affaires,</hi> ſaith
+this hard hearted Remonſtrance. You bid the Replyer tell you
+<hi>which are the words in the Remonſtrance, which intimates to the peo<g ref="char:EOLhyphen"/>ple,
+that a ſacred obligation lyeth upon them from the ſolemne league,
+and covenant unto a downe right ſuppreſſion of all thoſe, who out either
+of weake or tender conſcience cannot ſubmit to Presbyteriall govern<g ref="char:EOLhyphen"/>ment.</hi>
+He tell you; they are the words of the Second, Third and
+Fourth Petition, wherein you deſire that all non-conformiſts to
+Presbyterie, may be proceeded againſt and put out from any
+place of publique truſt, and this you inferre to be the intent of
+the Covenant, by comparing theſe petitions with the third page
+of the Remonſtrance, upon which you build the ſame.</p>
+            <p>In the next place you except againſt the Replyer, for ſaying
+the Parliament hath promiſed in ſeverall Declarations a graci<g ref="char:EOLhyphen"/>ous
+reſpect unto Tender Conſcience. You bid him ſhew thoſe
+Declarations, it ſeemes you are wi<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing to hide your eyes from
+ſuch obſervations, in the Parliaments Declarations, as though
+this were an abomination to you that they ſhould have any
+<hi>reſpect to Tender Conſciences,</hi> have you fo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gotten the very laſt
+Declaration of the 17<g ref="char:punc">▪</g> of <hi>Aprill</hi> 1646<g ref="char:punc">▪</g> page, 5, Pray you mind
+it, it is worth your imitation, it is the Parliament of <hi>Englands</hi>
+Declaration by your own aſſertion, for you call the Houſe of
+Commons the Parliament: In the 4<g ref="char:punc">▪</g> page of this <hi>Vindication</hi>
+and the laſt Line, and were I as well furniſhed with bookes as
+your ſelfe, doubtleſſed I could ſhew you ſeverall other Declarati<g ref="char:EOLhyphen"/>ons,
+where they promiſed a Chriſtian reſpect unto Tender Con<g ref="char:EOLhyphen"/>ſciences,
+I am ſorty Mr. <hi>Bellamy,</hi> you ſhould be ſo apt now a<g ref="char:EOLhyphen"/>dayes
+to <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt out of your memory, the praiſe worthy acts of the
+Parliament.</p>
+            <p>You proceed againe, affirming the <hi>Replyer chargeth another
+falſho<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d upon the Remonſtrants,</hi> by this interrogation, <hi>is it not moſt
+abjurd that the Parliament ſhall compoſe and enjoyne the Covenant,
+and other ſhall put their ſenſe upon it, and endeavour the enforcement
+of their owne ſenſe, both upon them, and the whole Kingdome, for no
+<pb n="15" facs="tcp:113729:10"/>
+leſſe is inſinuated</hi> (ſaith he) <hi>in this Remonſtrance, page</hi> 3. I pray you
+Sir, doe not you <hi>enforce both upon the Parliament, and whole King<g ref="char:EOLhyphen"/>dome,</hi>
+this to be the <hi>ſenſe</hi> of the <hi>Covenant, viz.</hi> ſuch an univerſal
+ſettlement of the Presbyteriall government, as that all that will
+not ſubmit thereunto, ſhould be by <hi>ſome effectuall courſe proceeded
+againſt, admitted into no place of publique truſts,</hi> and yet you ſay
+<hi>you will not receive any forced conſtruction thereof,</hi> and doe not you
+(in your owne judgement) walke according to the word of
+God in ſo doing, and yet you endeavour to <hi>enforce</hi> all Annabap<g ref="char:EOLhyphen"/>tiſts,
+Brown<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſts<g ref="char:punc">▪</g> Sectaries, &amp;c. to receive this for a reformation,
+<hi>viz.</hi> Presbyteriall Government, and is there ſuch a word in the
+Covenant? is it not therefore a <hi>forced interpretation?</hi> You goe
+on and tell the Replyer he <hi>jeares you,</hi> in ſaying you <hi>told the Peo<g ref="char:EOLhyphen"/>ple
+in print, as well as the Parliament in their written Remonſtrance,
+what vowes you have made in the Covenant,</hi> and bring in the order
+of the Houſe of Lords for the printing thereof, together with
+their gracious anſwer thereunto, as your juſtification for your
+princing the ſame; and hereupon you quibble, and inſult over
+the Replyer, as if now you had met with him to purpoſe, but Ile
+anſwer for him, by asking you a queſtion, or two: Did the
+Houſe of Lords command or order the printing of your Re<g ref="char:EOLhyphen"/>monſtrance,
+before it was ever tendered to them? I am confi<g ref="char:EOLhyphen"/>dent
+they did not, and as confident I am, and can prove it by a
+cloud of witneſſes, that a copy of that <hi>Remonſtrance</hi> of which the
+Replyer ſpeakes, was printed, come forth of the Preſſe and ma<g ref="char:EOLhyphen"/>ny
+of them ſold when you were at <hi>Weſtminſter</hi> with the Origi<g ref="char:EOLhyphen"/>nall
+thereof, yea ſeverall houres before you came home.</p>
+            <p>Secondly I demand further, did their Lordſhips order that
+Remonſtrance to be printed which you tendered to the Houſe
+of Commons? If they did not, you doe but falter and baffle, as
+if you had children to deale withall, by urging their Lord-ſhips
+order, to print that that was delivered to them, as a juſtification
+of printing the other, and the Replyer ſpeakes of that which
+was tendered to the Commons, not of that which was tendered
+to the Lords. <hi>Page</hi> 3. You ſaid the Replyer deales like a juggl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r,
+who juggles now Mr. <hi>Bellamy?</hi> Doubtleſſe <hi>juggling</hi> better be<g ref="char:EOLhyphen"/>comes
+an <hi>Anonymus</hi> then a <hi>Colonell.</hi>
+            </p>
+            <p>In the next place you demand of the Replyer wherein the
+<pb n="16" facs="tcp:113729:11"/>
+               <hi>Remonſtrance diſcourageth the Parliament,</hi> and it is anſwered to
+your hands <hi>by preſſing them to a ſuddain enfeebling of their strength,
+by cruſhing a conſiderable party of as Cordiall friends, as ever they had
+ſince the wars began.</hi> And is not this evident when you deſire an
+effectuall courſe might be taken for the ſuppreſſion of all thoſe
+(whereof there are many thouſands in the Kingdome as cordiall
+friends to the Parliament, as any the Remonſtrants whatſo<g ref="char:EOLhyphen"/>ever)
+who cannot ſubmit to Presbyteriall government.</p>
+            <p>In the next place, you begin with an Interrogation, and as if
+you had gotten a commiſſion to inſult, thus, <hi>What? Is Londons
+care to keep their Covenant, now become Londons ruine?</hi> &amp;c. <hi>Doubt
+leſſe theſe are doctrines of a new date, and neere a kinne to thoſe new
+lights, which ſo many now a dayes doe ſo much boaſt of.</hi> Whether
+now Mr. <hi>Bellamy?</hi> I profeſſe my heart akes, and my hand trem<g ref="char:EOLhyphen"/>bles,
+ſhall I write, or ſhall I forbeare? I paſſed by your ſcoffing
+at <hi>new lights, page</hi> 10. once before, and tooke no notice of it. But
+I meet with it againe yea with an additionall ſcoffe, <hi>Doctrines of
+a new date</hi> and <hi>new Lights,</hi> well Sir, are you not aſhamed to
+appeare as you doe againſt your brethren, under the name of
+Heretiques, Sectaries, Schiſmatiques, in Common-Counſell, in
+the City Remonſtrance: and in print after ſuch a jearing and
+ſcoffing manner<g ref="char:punc">▪</g> what can the world judge of your ſelfe, who
+have made ſo many turnings in matters of Religion as you have
+made? How can you ſcoffe at <hi>new lights;</hi> ſince your ſelfe have
+been of ſo many various, and contrary opinions in matters of
+Religion? If intelligence ſpeakes true, you are that Mr. <hi>John
+Bellamy,</hi> who was borne at or neere <hi>Oundle</hi> in <hi>North-Hampton<g ref="char:EOLhyphen"/>ſhire,</hi>
+a Sonne of the Church of <hi>England,</hi> under <hi>Epiſcopaſie:</hi>
+who (after breeding, yeares and capacity had made you meet)
+was brought up to <hi>London,</hi> and bound Apprentice to Mr. <hi>Nico<g ref="char:EOLhyphen"/>las
+Bourne,</hi> Citizen and Stationer of <hi>London,</hi> and in a conſidera<g ref="char:EOLhyphen"/>ble
+part of the time of your Apprentice-ſhip. As concerning
+Religion (for thereto only I ref<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rre) was a very zealous profeſ<g ref="char:EOLhyphen"/>ſor
+even to a very popular obſervation, exerciſing ſuch ſtrict<g ref="char:EOLhyphen"/>neſſe,
+and exactneſſe, in keeping and preſerving (that rich Jew<g ref="char:EOLhyphen"/>ell)
+a quiet and tender conſcience; as that you would not perſo<g ref="char:EOLhyphen"/>nally
+ſell ſuch bookes; (as prayer bookes &amp;c.) w<hi rend="sup">ch</hi> were ordina<g ref="char:EOLhyphen"/>rily
+ſold by other Stationers, &amp; in your Maſters ſhop, in ſo much
+as that your name grew famous, for a moſt pious and conſci<g ref="char:EOLhyphen"/>entious
+<pb n="17" facs="tcp:113729:11"/>
+man, to the multiplying of your acquaintance, and the
+begetting, and increaſing your cuſtomers; when you ſet up ſhop
+for your ſelfe, and ſtudying to know more of the mind, and
+will of God, as touching the diſpenſation of his publique Or<g ref="char:EOLhyphen"/>dina<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s
+&amp; worſhip; the buſineſſe of infants baptiſme came into
+your conſideration, and in that point, you fel into the opinion of
+Anabaptiſts, (but whether rebaptized or no, I cannot tell) after
+this, ſtill reſpecting (ſo far as men could judge) the main duty of
+chriſt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anity, <hi>viz.</hi> not to ſin againſt your conſcience; condem<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+your ſelfe in the thing that you allowed, according to the
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of your own judgement and conſcience, you applied
+your ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll to a <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eparate congregation, whereof Mr. <hi>Jacob</hi> was Pa<g ref="char:EOLhyphen"/>ſtor
+and deſired admiſſion thereunto, and (upon your acknow<g ref="char:EOLhyphen"/>ledgemen<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your error, concerning Anabaptiſm) you were ad<g ref="char:EOLhyphen"/>mitted;
+with whom continuing, and frequen<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, to walk with
+them in their more private meetings; through the tyranny of
+thoſe times, you were by the Biſhops officers apprehended &amp; ſo
+had up into the High-Commiſſion Court, at which time your
+godly friends (as was their duty) came unto you, and gave you
+brotherly exhortations, &amp; encouragements unto Chriſtian cou<g ref="char:EOLhyphen"/>rage
+and fortitude, not to ſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inke but to honour God, by ſuf<g ref="char:EOLhyphen"/>fering
+according to that preſent call which you had thereunto,
+but it ſeemes you had not yet received ſtrength to abide ſuch a
+temptation; and therefore grievouſly tooke on, <hi>wiſhi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g you had
+never beene borne;</hi> and in ſhort, by the mediation of ſome friends,
+and upon the giving of your bonds that you would no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> goe a<g ref="char:EOLhyphen"/>mong
+that ſeparate Church, &amp; congregation any more &amp;c. you
+were ſet free againe, and being called in queſtion by ſome
+of your brethren, for ſo doing, you endevoured to ſatisfie them;
+as co<g ref="char:cmbAbbrStroke">̄</g>cerning your giving bonds, to come among them no more,
+with this conſideration, <hi>viz</hi> you could better give bonds (therby
+only hazarding your purſe) then your verball promiſe to doe ſo
+nomore, to the hazard of the peace of your conſcience inſinua<g ref="char:EOLhyphen"/>ting
+thereby, that it was not the care of your purſe, but of your
+conſcience, that made you run that courſe; at which anſwer,
+your friends being ſatisfied for the preſent, (as judging the beſt
+of you) they expected your Communion and fellowſhip as
+before, but conſidering (it ſeemes) the danger thereof you
+<pb n="18" facs="tcp:113729:12"/>
+withdrew from them, made a <hi>Schiſme,</hi> and went away: and (as
+ſome ſay) after along tymes forbearance, and many admoni<g ref="char:EOLhyphen"/>tions
+was at laſt excommunicated, which act of theirs (it is pre<g ref="char:EOLhyphen"/>ſumed)
+is the maine ſourſe of thoſe bitter proceedings of you<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s
+againſt theſe wares, revenge (its feared) putting you on worke.)
+After your ſeparation and rent from them, you became againe
+an obedient and dutifull child to the Canons of Epiſcopacy:
+giving ample teſtimony hereunto by ſingular obſervance of one
+of their <hi>great Commandements: viz.</hi> the frequent and decent pub<g ref="char:EOLhyphen"/>lique
+uſe of the Common prayers of the Church: obſerving
+their injunctions even to a tittle, <hi>ſtanding</hi> whe<g ref="char:cmbAbbrStroke">̄</g> they bid you <hi>ſtand,
+kneeling</hi> whe<g ref="char:cmbAbbrStroke">̄</g> they bid you <hi>kneel,</hi> &amp; ſo obſerving your poſtures to
+the life, yea, your dutiful obeyſance to the fathers of the Church
+(falſely ſo called) (I meane) the Prelates, was abundantly teſti<g ref="char:EOLhyphen"/>fied
+by your exact performance of another of their great lawes
+like unto the former, <hi>viz receiving the Sacrament of the Lords
+Supper kneeling at the high Altar:</hi> as intelligence affirmes, if men
+may beleeve their eyes; but before your ſtomach could digeſt a
+<hi>high Alter,</hi> you prepared your ſelf for it by degrees, firſt, refuſing
+to come to common Service, but going only to heare Sermons,
+after this common prayer would down with you, but not if read
+by any with a Surpliſſe, a while after neither Common Prayer,
+nor Surpleſſe, nor high Altar it ſelfe was to hard meat for you,
+to the great griefe and amazement of godly non-Conformiſts,
+who were never in the ſeparate Churches; and the rather conſi<g ref="char:EOLhyphen"/>dering
+your Chriſtian dial<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct, and language of <hi>Canaan</hi> which
+was yet (notwithſtanding all this) often found to proceed from
+you, and not very long ſince, (the glory of Chriſtian ſociety, and
+brightnes of ſuch a fellowſhip daſhing upon your co<g ref="char:cmbAbbrStroke">̄</g>ſcience) you
+betook your ſelf to a very precious ſelect company of chriſtians
+who met togetherin a coutſary maner according to agreeme<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,
+for the mutual com<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort &amp; edification of one another by pra<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er,
+exhortation, and the exerciſe of one anothers gifts, in which
+company, none more free frequent, and forward then Maſter
+<hi>Bellamy,</hi> and indeed according to their acknowledgements ex<g ref="char:EOLhyphen"/>ceeding
+and excelling them all, in delivering many luſhious
+ſoule-refreſhing, and heart-quickening truths, both in pra<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er
+and other exerciſes, the ſweetneſſe, benefit, and comfort, thereof
+<pb n="19" facs="tcp:113729:12"/>
+being yet as <hi>Manna</hi> in their palates, &amp; the dew of Heaven upon
+their hearts; who with much griefe of ſoule aſſert theſe things.
+Now ſir, I beſeech you take notice that I doe not in the leaſt re<g ref="char:EOLhyphen"/>flect
+upon you, for your difference in judgement from what
+you have beene heretofore your ſelfe, nor from your brethren,
+nor yet for your ſo often altering your judgement and practice,
+but this is that that I would you, &amp; all others, ſhould obſerve in
+you, how you have made a perſonall experiment of all thoſe
+waies; have been for Biſhops &amp; againſt Biſhops: for Anabaptiſts
+and againſt Anabaptiſts: for Sepatates and againſt Separates:
+for Biſh: <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gain, and againſt Biſh: for Common prayer book and
+againſt Common-prayer book, for conformity &amp; againſt con<g ref="char:EOLhyphen"/>formity,
+and now (as it were <hi>halfe facing</hi>) you are for Presbyte<g ref="char:EOLhyphen"/>ry:
+viz. <hi>jure humano,</hi> and ſo left to the wiſdom of Parliament.
+and the prudence of Chriſtian Magiſtrates; this is the profeſſion
+of your lips, and yet (you act and that to the utmoſt) with
+thoſe that hold it <hi>Jure divino,</hi> and ſeekes the eſtabliſhment of it
+in that co<g ref="char:cmbAbbrStroke">̄</g>ſideration, ſo that your tongue complements with the
+Parliament, and ſayes as concerning the power of Church go<g ref="char:EOLhyphen"/>vernment:
+let the Crowne be ſet upon the head of Civill autho<g ref="char:EOLhyphen"/>rity,
+the high Court of Parliament ſitting at Weſtminſter, and
+yet your hands endevour to lift it up and fix it upon the Tem<g ref="char:EOLhyphen"/>ples
+of the <hi>Epiſcopall</hi> Corporation the <hi>London Miniſters ſitting
+at Sion Colledge,</hi> and ſo you are likewiſe. for <hi>Presbytery</hi> &amp; <hi>againſt
+Presbytery,</hi> and yet that you ſhould ſcoffe and jeere at your bre<g ref="char:EOLhyphen"/>thren
+that differ from you, (though you agree not even with
+your ſelfe) as men intoxicated and elevated with <hi>new Lights, do<g ref="char:EOLhyphen"/>ctrines
+of new date, Sectaries, hereticks,</hi> more beſeeming a <hi>Judas,</hi> a
+<hi>Julian,</hi> a <hi>Baalamite;</hi> then Maſter <hi>Bellamy,</hi> oh Sir, whither are
+you fallen? Maſter <hi>Bellamy,</hi> what is ſalt worth that hath
+loſt its ſav<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? will you that <hi>have beene enlightned and ta<g ref="char:EOLhyphen"/>ſted
+of the Heavenly gift and beene made partaker of the Holy
+Ghoſt taſted, the good word of God, and the powers of the world to come,
+crucifie to your ſelfe the Sonne of God afreſh</hi> in his members, by
+ſeeking for, and endevouring after an <hi>effectuall courſe</hi> of pro<g ref="char:EOLhyphen"/>ceedings
+againſt ſuch perſons, whom your owne ſoule and
+conſci<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce cannot but know to be as tender unto God as the
+<hi>apple of his eye,</hi> will you put the Lord Ieſus againe to <hi>open ſhame</hi>
+               <pb n="21" facs="tcp:113729:13"/>
+by repreſenting his Servants and redeemed ones in the eyes of
+the world for Sectaries: <hi>Schiſmaticks Hereticks,</hi> will you prove
+<hi>the earth that drinketh the rain<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that commeth oft upon it,</hi> (I meane
+one of thoſe, who have been ſo ancient a profeſſor, converſant
+in ſo many precious meetings, heard and received ſo many
+glorious truths of God, powred forth ſo many prayers and
+tears unto Cod, made ſo many Covenants of love &amp; tendernes
+to the Saints of God, profeſſing ſuch indeered &amp; intimate re<g ref="char:EOLhyphen"/>ſpects
+to godly men, retained ſuch noble reſolutions to follow
+God, according to your light &amp;c) not <hi>bringing forth <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>earbs</hi> (I
+mean meat for him, his children, &amp; family, <hi>viz.</hi> Glory to God,
+love kindneſſe, gentleneſſe, meekneſſe, mercy, goodneſſe to his
+children) <hi>meet for him by whom it is dreſt,</hi> that you might <hi>receive a
+bleſſing;</hi> but contrary wiſe, <hi>bring forth thornes and briers,</hi> ſcratch<g ref="char:EOLhyphen"/>ing,
+galling and vexing your brethren in the faith, undermining
+their peace and comfort, not only joyning with, but ſtirring up
+the Magiſtrates againſt them, and appearing in print in the vin<g ref="char:EOLhyphen"/>dication
+thereof, is not the end of ſuch ground everlaſting bur<g ref="char:EOLhyphen"/>nings?
+God deliver you from it, conſi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sir, <hi>your maſter is com<g ref="char:EOLhyphen"/>ming,</hi>
+if you <hi>ſmite your fellow ſervants,</hi> he will <hi>call you to an ac<g ref="char:EOLhyphen"/>compt</hi>
+for it, and how will you anſwer it? I know you doe not
+thinke that you perſecute the Saints; but what is perſecu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion,
+if this is not? To ſeeke for a ſuppreſſion by an <hi>effectuall courſe,</hi> of
+thoſe Saints and ſervants of God, that ſubmit not to Presbyte<g ref="char:EOLhyphen"/>riall
+Church Government, which your ſelfe (except altered of
+late in your judgement) will not acknowledge of divine inſtitu<g ref="char:EOLhyphen"/>tion?
+If you doe the ſame things which the Biſhops did, is it
+perſecution in them, &amp; not in you? I hope Mr. <hi>Bellamy</hi> you have
+yet thoſe ſparkes in you of divine heat and fire, which may yet
+kindle into a glorious flame, quench<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t not, I confeſſe it will be a
+great piece of ſelfe-denyall in you to retract ſuch unworthy pro<g ref="char:EOLhyphen"/>ceedings,
+eſpecially lying under ſuch great temptations to the
+contrary, as you doe, but Sir, the world to come is the everla<g ref="char:EOLhyphen"/>ſting
+world, the riches thereof the <hi>durable ſubſtance, the praiſe of
+God, and not of men</hi> the chiefeſt honour, conſider of it, and doe
+as God ſhall perſwade your heart, but liſten then unto his per<g ref="char:EOLhyphen"/>ſwaſions,
+and ſtifle not the motions and dictates of your owne
+light hereunto. Conſider Sir, the day waſteth, the night is com<g ref="char:EOLhyphen"/>ming,
+<pb n="20" facs="tcp:113729:13"/>
+your houſe of clay cannot laſt long, your ſoule muſt
+ſhortly ſit upon your trembling lips, you have a precious ſoule
+in <hi>a vile body,</hi> and your Antagoniſt loves it (what ever you ſup<g ref="char:EOLhyphen"/>poſe)
+who is more bold with you in this kind of dialect, becauſe
+you very well know the meaning thereof, I have more to ſay
+concerning your booke, otherwiſe I would be more preſſing and
+urgent with you th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n I am.</p>
+            <p>
+               <hi>But you demand</hi> What, is Londons care of keep their Covenant,
+now become Londons ruine?</p>
+            <p>I anſwer, Sir, did our Covenant bind us to ſuppreſſe all the
+holy, godly, conſcientious ſons &amp; daughters of God, which were
+but even <hi>di<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>affected to Presbyteriall government?</hi> if ſo; bold I am
+to affirme, that <hi>Londons care to keep the Covenant, Will now become
+Londons ruine;</hi> a bloody, cruell, curſed, Covenant, if that be the
+meaning of it, but confident I am, as there is no ſuch thing ex<g ref="char:EOLhyphen"/>preſt
+in the Covenant, ſo no ſuch meaning can be rationally ga<g ref="char:EOLhyphen"/>thered
+there from, and therefore it is not the <hi>Covenant,</hi> but ſuch
+an <hi>interpretation</hi> that is here impleaded, can wee think that the
+preſent Parliament of England (the great benefactors of <hi>tender
+conſciences</hi>) for which the good will of him that dwelt in the
+Buſh, be ever amongſt them) would ever bind the inhabitants
+of this Kingdome, in ſuch amonſtrous deſigne? if perſecution
+of tender conſciences evidenced, but by ſo much <hi>as diſaffection
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the Presbyterian government,</hi> be the matter of the Covenant,
+what have wee done, but even ſtruck hands with the Devill,
+and ſaid <hi>a confederacy,</hi> with all his curſed ſeed that we will root
+out a great part of as holy, harmeleſſe, and bleſſed a generation
+as is in the world, is this the meaning of <hi>the lifting up of your
+hands unto the moſt high God,</hi> to give the greater blow upon the
+head of his ſervants here upon earth? Surely Sir, if I had lifted
+up my hand in taking the Covenant with ſuch an intention, I
+ſhould have expected the withering of it, and better it ſhould
+be ſo, then ever it ſhould be found performing ſuch a curſed
+thing, but the truth is, the holy Scripture it ſelfe, by a wicked in<g ref="char:EOLhyphen"/>terpretation
+proves the bane and ruine of ſome, and ſo may this
+Covenant, upon ſuch an interpretation; but who ever it is,
+that maketh ſuch an interpretation of the Covenant, let him
+be for ever numbered among the <hi>Cananites;</hi> covenanted Ene<g ref="char:EOLhyphen"/>mies
+<pb n="22" facs="tcp:113729:14"/>
+againſt the <hi>Iſralites,</hi> but let the Heavens be aſtoniſhed,
+and the earth tremble, that ever any profeſſing <hi>Christ</hi> (not fild
+with malice and deſpite againſt the Spirit of grace) ſhould take
+ſuch a covenant, with ſuch an interpretation.</p>
+            <p>You goe on with more interrogatories, which are little more
+then meer flouriſhings, and that which any impartiall man
+may anſwer, even in reading them, and therefore I ſhall wave
+them.</p>
+            <p>In the next place, where you deale with the Replyer (for I
+obſerve nothing elſe) you take upon you to decide a State que<g ref="char:EOLhyphen"/>ſtion,
+and that none of the meaneſt neither; I confeſſe, ſome
+Common-councell men need to be ſtateſ-men; for they inter<g ref="char:EOLhyphen"/>meddle
+with States-matters; more I preſume then ever any, that
+were before them, and more (I beleive) then ever God or man
+gave them authority to doe; I feare ſome of them doe much
+forget themſelves, and take themſelves to be <hi>Londons</hi> Parliament
+and not <hi>Londons</hi> Common-councell; for it is the Kingdome,
+the Church, the State-affaires that they intermedle with,
+not confining themſelves unto their City-Charter, but acting
+according to Parliament principles, in time they may be better
+inſtructed; but to the queſtion, and that is this;</p>
+            <p>Wherein reſides the Supreame power of this Kingdome?</p>
+            <p>Mr. <hi>Bellamy</hi> anſwers thus,</p>
+            <p>The two Houſes of Parliament, <hi>viz.</hi> the Lords and Commons,
+with the King, who is alwaies in his Kingly power preſent with
+them, though in perſon ſomtimes as now) is abſent from them, are
+thoſe three Eſtates, of which the fundamentall conſtitution of this
+Kingdome is made up, and have in them ioyntly and together, all the
+Supreame power of this Kingdome, and not any one of thoſe three E<g ref="char:EOLhyphen"/>ſtates
+conſidered apart, and by it ſelfe, can properly be ſaid to have the
+whole Supreame power of the Kingdome reſiding in it, and therefore
+the Houſe of Commons being but one of thoſe three eſtates, well might
+the <hi>Remonſtrants</hi> ſay that they are betruſted but with a ſhare of
+the Supreame power of the Kingdome, <hi>and for proofe of all this his
+reading, referres us to a</hi> Remonſtrance of the Lords and Commons in
+Parliament, <hi>of the ſecond of</hi> Novem. 1642. <hi>to theſe words,</hi>
+wee did and doe ſay, that the Soveraigne power, doth reſide in the King
+and both Houſes of Parliament.</p>
+            <p>
+               <pb n="23" facs="tcp:113729:14"/>
+Here you thinke you have given the Replyer a faire fall, and
+therefore inſult over him ever and anon upon this point, but
+forbeare Mr. <hi>Bellamy, turpe inſultare jacenti,</hi> for however you
+thinke you have given the Replyer ſuch a full and ample ſatis<g ref="char:EOLhyphen"/>faction
+yet all the world cannot ſo eaſily be ſatisfied, and there<g ref="char:EOLhyphen"/>fore
+though for my part I was never yet a Common Counſell
+man, and therefore cannot ſo poſſitively ſpeak to ſuch deep
+ſtates buſineſſe, yet ſince you are ſo willing to ſatisfy the igno<g ref="char:EOLhyphen"/>rant,
+what I ſhall ſay herein, ſhall be by way of quere.</p>
+            <p>Firſt then I quere Mr. Bellamy;</p>
+            <p>What meane you by <hi>three Eſtates?</hi> I have heard the tearme
+once by the Biſhops friends when they were a falling, and they
+concluded that there were <hi>three Eſtates</hi> in this Kingdome, <hi>viz.</hi>
+the King, and the Lords temporall were the firſt, Lords ſpi<g ref="char:EOLhyphen"/>rituall
+were the ſecond; the Commons the third Eſtate;
+and they gave this reaſon, that the King and the Lords were
+but one Eſtate becauſe the King made the Lords, but though
+the King conferr'd the Honours, and profits of Biſhops, yet
+did not make the Biſhops themſelves, they as Biſhops, were
+<hi>jure divino,</hi> you determine it otherwiſe, I pray you Sir a little
+more ſatisfaction to that point.</p>
+            <p>2. What meane you by <hi>fundamentall?</hi> you ſay <hi>the King Lords<g ref="char:punc">▪</g>
+and Commons are the three Eſtates, of which the fundamentall con<g ref="char:EOLhyphen"/>ſtitution
+of this Kingdome is made up,</hi> are there three fundamentals?
+I confeſſe I have not underſtood ſo much, I ever thought there
+had been but one, and that I took to be the Commons, and
+theſe reaſons made me think ſo.</p>
+            <p>Firſt, becauſe I ever thought, that the Commons made the
+King, and the King made the Lords, and ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Commons
+were the Prime foundation.</p>
+            <p>Secondly, I ever took this for a truth likewiſe, that both the
+King and the Lords, were advanced for the benefit, quiet, and
+welfare of the Commons, and not the Commons made for
+them, and if I was deceived, the Common maxim of <hi>ſalu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-po<g ref="char:EOLhyphen"/>puli
+ſuprema lex</hi> deceived me.</p>
+            <p>You ſee my doubt, you ſee my reaſon, a little ſatisfaction
+here alſo Mr. <hi>Bellamy.</hi>
+            </p>
+            <p>Thirdly, I quere, whether (upon this ſuppoſition) that the
+<pb n="24" facs="tcp:113729:15"/>
+Kingdome is made up three <hi>Eſtates</hi> (as you ſay) and ſo wee
+muſt not underſtand the Parliament conſiſting of ſo many
+men, but of three <hi>Eſtates diſtinct,</hi> quatenus eſtates <hi>apart
+by themſelves,</hi> thoſe are your termes. I quere (I ſay) whether
+that the King, and ſuppoſe the major part of the Lords, which
+make up two <hi>Eſtates,</hi> doe agree together; ſuppoſe it be to ſet up
+abſolute prerogative, and the Commons will not aſſent here un<g ref="char:EOLhyphen"/>to,
+whether the major part of <hi>Eſtates,</hi> muſt not conclude the mi<g ref="char:EOLhyphen"/>nor,
+the two conclude the third, and ſo as for the Commons,
+will they, nil they, ſlaves they muſt be, and ſlaves they ſhall be,
+your judgment here likewiſe good Mr. <hi>Bellamy.</hi>
+            </p>
+            <p>Fourthly, Whereas you ſay the <hi>King is preſent in Parliament,
+viz.</hi> in his Kingly <hi>power,</hi> though <hi>abſent in perſon.</hi> I quere whe<g ref="char:EOLhyphen"/>ther
+he is <hi>preſent</hi> with them as a <hi>diſtinct Eſtate,</hi> I know Sir hee
+is preſent in power in all his inferiour Courts of juſtice, as well
+as in the parliament, but is he preſent as a diſtinct eſtate? If
+ſo, if one diſtinct <hi>Eſtate,</hi> may be preſent in power, <hi>quatenus an
+eſtate, and abſent in perſon,</hi> may not a ſecond <hi>Eſtate</hi> be ſo preſent,
+though abſent in body? yea a third <hi>Eſtate</hi> ſo preſent, and yet ab<g ref="char:EOLhyphen"/>ſent
+in body? and ſo we ſhall have three <hi>Eſtates</hi> in Parliament,
+and not a man amongſt them; this is a <hi>Riddle</hi> indeed Mr. <hi>Bella<g ref="char:EOLhyphen"/>my:</hi>
+I pray you unfould this alſo.</p>
+            <p>Fiftly, The <hi>Replyer</hi> obſerving the <hi>Remonſtrants</hi> aſcribing only a
+<hi>ſhare of the Supreame power</hi> to the Houſe of Commons, propo<g ref="char:EOLhyphen"/>ſeth
+this queſtion to them, <hi>will not you allow ſo much power to the
+Kingdome Repreſentative, in reference to the Kingdom, as to the repre<g ref="char:EOLhyphen"/>ſentative
+City, in reference to</hi> London: ſee page 13. And ſo do I que<g ref="char:EOLhyphen"/>re,
+wil not the Co<g ref="char:cmbAbbrStroke">̄</g>mons of <hi>London,</hi> yeild of aſcribe unto the Com<g ref="char:EOLhyphen"/>mons
+of <hi>England,</hi> as the Co<g ref="char:cmbAbbrStroke">̄</g>mons of <hi>London</hi> to thmſelves wil aſ<g ref="char:EOLhyphen"/>cribe?
+Therefore Mr. <hi>Bellamy,</hi> to make your abſurdities the better
+appeare, in your paralel between the Kingdome Repreſentative,
+and the City Repreſentative; I come upon you thus.</p>
+            <p>Firſt, you grant that the <hi>Common-councell is the City Repreſen<g ref="char:EOLhyphen"/>tative:</hi>
+page the 2. of your <hi>Vindication.</hi>
+            </p>
+            <p>
+               <hi>Secondly You grant that,</hi> the Houſe of Commons in Parliament
+aſſembled, is the Kingdome Repreſentative, <hi>in the ſame page.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, You ſay,</hi> the City Repreſentative, hath power <hi>to</hi> make a
+Law for thoſe whom it Repreſents: <hi>in the 12. page of your</hi> plea
+for the Cmonalty of London</p>
+            <p>
+               <pb n="25" facs="tcp:113729:15"/>
+Fourthly, I deſire to know whether you allow <hi>the Kingdome
+Repreſentative, the ſame power to make a Law for thoſe whom it re<g ref="char:EOLhyphen"/>preſents,</hi>
+if ſo, then let us examine your argument: May wee
+reaſon after your Logick Mr. <hi>Bellamy,</hi> ſee your Sillogiſme; Sir
+in the ſaid book called <hi>a plea for the Comonalty of London</hi> (I think
+I hit the right name of it, though the Replyer was miſtaken
+before) in the 12. page it ſtands thus:</p>
+            <p>That Court which hath a power to make a Law, and by that Law,
+to conferre a power upon the Lord Major, and Aldermen, which as
+Lord Major and Aldermen, the<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had not befor<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, muſt needs be <hi>quoad
+hoc</hi> unto the making of a Law, above the Lord Major and Alder<g ref="char:EOLhyphen"/>men.</p>
+            <p>But this Court of Common-councell hath &amp;c. <hi>Ergo,</hi> this Court
+of Common-councell ſo farre as to the making of a Law, muſt needs be
+above the Lord Major and Aldermen.</p>
+            <p>Now Sir I quere only (for I cannot preſume ſuch skill) may
+not I reaſon thus, after your patterne.</p>
+            <p>That Court, that hath a power to make a law, and by that
+law, to conferre that power upon the King, and Lords, which
+as king and Lords they had not before, muſt needs be <hi>quoad hoc</hi>
+unto the making of a Law, above the King and Lords.</p>
+            <p>
+               <hi>But the Houſe of Commons</hi> (which ſay you is the Kingdome R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>preſentative,
+even as the Common-councell is the City Repreſentative,
+upon your ſuppoſition) <hi>hath a power &amp;c.</hi> Ergo, <hi>the Houſe of Com<g ref="char:EOLhyphen"/>mons
+ſo farre as unto the making of a Law &amp;c.</hi>
+            </p>
+            <p>May I not reaſon thus likewiſe, according to your example,
+from your owne ſuppoſition ſtill, that Court which hath a
+power, to make or repeale what lawes they judge meet, for the
+Common wealth, and whereunto the King himſelfe is
+bound by his oath (and therefore ought in duty) to conſent,
+muſt needs be <hi>quoad hoc,</hi> unto the making and repealing Lawes,
+the Supream Court.</p>
+            <p>But the Houſe of Commons (<hi>which ſay you is the Kingdome Re<g ref="char:EOLhyphen"/>preſentative,
+as the Common-conncell is of the City of London</hi>) upon
+your ſuppoſi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, hath ſuch a power &amp;c. therefore.</p>
+            <p>Or may I not reaſon thus, for I doe not conclude any thing;
+I doe but (as a Pupill to his Tuter) propound queres to Maſter
+<hi>Bellamy</hi>
+            </p>
+            <p>
+               <pb n="26" facs="tcp:113729:16"/>
+That Court which hath a power to make Lawes and rules,
+for all the Courts and people in the Kingdome, to be ſteered,
+and acted by, and whereunto the King is bound b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> oath to con<g ref="char:EOLhyphen"/>ſent;
+muſt needs have the ſupreame power of the Kingdome re<g ref="char:EOLhyphen"/>ſiding
+in it.</p>
+            <p>But the Houſe of Commons in Parliament aſſembled (which ſay
+you as the Kingdome Repreſentative, even as the Common-councell
+is the City Repreſentative) upon your ſuppoſition hath ſuch a power &amp;c.</p>
+            <p>Therefore the Houſe of Commons hath (it ſeemes, even by
+your owne arguing) the Supreame power of the Kingdome
+leſiding in it.</p>
+            <p>One touch mo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Mr<g ref="char:punc">▪</g> 
+               <hi>Bellamy,</hi> from your <hi>Plea for the Como<g ref="char:EOLhyphen"/>nalty
+of L<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Mr. <hi>B<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llamy,</hi> you grant this arguing, from
+your for <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, of the Kingdome and City Repreſenta<g ref="char:EOLhyphen"/>tive
+to <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, or <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe I may reaſon upon you and that thus Sir:</p>
+            <p>He th<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll a<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> be that power unto the City Repreſenta<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e,
+in ref<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence to the government of the City, which he ſhall
+deny unto the Kingdome Repreſentative, in r<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ference to the
+Government of th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdom, doth <hi>quoad hoc,</hi> preferre the City
+Repreſentative in its power, before the Kingdome repreſenta<g ref="char:EOLhyphen"/>tive
+in its power.</p>
+            <p>But Mr. <hi>Bellamy</hi> aſcribes that power unto the City Repreſen<g ref="char:EOLhyphen"/>tative,
+in reference unto the government of the City, which
+he denyes unto the Kingdome Repreſentative, in reference un<g ref="char:EOLhyphen"/>to
+the government of the Kingdome.</p>
+            <p>Therefor<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>B<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llamy</hi> doth <hi>quoad hoc</hi> preferre the City Re<g ref="char:EOLhyphen"/>preſentative,
+above the Kingdome Repreſentative.</p>
+            <p>The Major propoſition I think will not bee denyed, for the
+proofe or the minor, I muſt doe two things.</p>
+            <p>Firſt, ſhew what power Mr. <hi>Bellamy</hi> aſc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibes unto the City
+Repreſentative, in reference to the government of the City.</p>
+            <p>Secondly, ſhew what he denies the Kingdome Repreſenta<g ref="char:EOLhyphen"/>tive,
+i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reference to the government of the Kingdome.</p>
+            <p>Forth<g ref="char:punc">▪</g> firſt Mr. <hi>Bellamy</hi> aſcribes ſo much power unto the
+City Repreſentative, in reference unto the government of the
+City; that the Lord Maj<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and Aldermen muſt have no nega<g ref="char:EOLhyphen"/>tive
+vote, as Lord Major and Aldermen, out muſt be conſide<g ref="char:EOLhyphen"/>red
+<pb n="27" facs="tcp:113729:16"/>
+as ſo many diſtinct perſons together with the Commons,
+concluding by the major vote of the whole <hi>Conjunctim,</hi>
+and as unto ſuch concluſions, regarding the Lord Major and Al<g ref="char:EOLhyphen"/>dermen
+but as ſo many diſtinct perſons, a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the whole drift
+of the 15. and 16. pages of the ſaid <hi>Plea for the Comonalty of Lon<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi>
+            </p>
+            <p>Secondly, let us conſider what he deni<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Kingdome Re<g ref="char:EOLhyphen"/>preſentative,
+in reference unto the government of England,
+and that is in <hi>term<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is,</hi> that the <hi>Supr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of this Kingdome,
+doth not r<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſide there,</hi> neither wi<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the King,
+Lords &amp; Commons in Parliament to be con<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>pe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſonaliter,</hi>
+and as ſo many diſtinct perſons, but <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo
+then, this <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> caſe; The City is govern<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>joy Common-coun<g ref="char:EOLhyphen"/>cell
+conſiſting of Lord Major, <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Commons of the
+City, but not three diſtinct <hi>Eſta<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> but as <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> men amount<g ref="char:EOLhyphen"/>ing
+to ſuch a number the may <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> concluding; but the King<g ref="char:EOLhyphen"/>do<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+is govern<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by a Parliament <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tting of King, Lords &amp;
+Commons<g ref="char:punc">▪</g> not conſider <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> perſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns who have
+their equall vot<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Mr. <hi>Bellamy,</hi> and ſo
+the two <hi>Eſtates,</hi> being the major part of <hi>Eſtate,</hi> muſt conclude
+the third.</p>
+            <p>Now I appeale to all, whether according to Mr. <hi>Bellamyes</hi>
+Logick, the Kingdom repreſentative, which he himſelf ſaith is
+the Houſe of Commons be not <hi>qu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad hoc,</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in its power,
+in <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> government of the Kingdome, then the City
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ference for the government of the City.</p>
+            <p>Well Mr. <hi>Bellamy,</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the caſe be ſo (I only quere for my fur<g ref="char:EOLhyphen"/>ther
+ſatisfaction) and unti<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you have anſwered theſe que<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, do
+not inſult over <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, nor charge him with deſtroying the
+power of two <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtat<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Kingdome, when he did <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſire
+you <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him the t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uth; as concerning the reſidence of the
+ſupr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame power of the Kingdome, until I heare your anſwers I
+ſhall never in <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of your <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to <hi>vn<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Riddles</hi> and by <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your ſelfe th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> queſtions will be no <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> unto you nei<g ref="char:EOLhyphen"/>ther
+are they intended ſo to <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Take heed you doe not make
+a <hi>N<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> of your anſwers.</p>
+            <p>Here, you ſlide <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom the Replyer and deale with others, as
+Lieu. Col. <hi>John Lilburn,</hi> and anon after with Mr. <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:113729:17"/>
+               <hi>Burroughs,</hi> and the truth is, I wonder how you can write ſo ir<g ref="char:EOLhyphen"/>reverently
+of him as you doe, you call him <hi>one of the moſt mo<g ref="char:EOLhyphen"/>derate
+oppoſers of Presbyteriall Government,</hi> and (as if your bitter<g ref="char:EOLhyphen"/>neſſe,
+and unworthineſſe of Spirit, did reſolve to be maſter) you
+checke your ſoft ſaying with (<hi>if any of them may truly be ſo cal<g ref="char:EOLhyphen"/>led</hi>)
+well Sir, what ſay you of Mr. <hi>Burroughs?</hi> thus in his book
+which he writ againſt Doctor <hi>Ferne</hi> page 125. of the firſt im<g ref="char:EOLhyphen"/>preſſion
+of his book called <hi>the glorious name of the Lord of Hoſts,</hi>
+but in the laſt impreſſion, the 9. page.</p>
+            <p>(It ſeemes by the way, that Doctor <hi>Ferne</hi> and you are a<g ref="char:EOLhyphen"/>greed,
+and now what was written againſt Doctor <hi>Ferne,</hi>
+proves written againſt you, is this becomming a chriſtian,
+thus in your Spirituall warfare, at the command of the world,
+to face, to the right, to the left, to the front, to the reare, halfe
+face, face about, and as you were;) but what ſaith Mr. <hi>Bur<g ref="char:EOLhyphen"/>roughs</hi>
+in the place before quoted, thus:</p>
+            <p>But if the Parliament ſhould degenerate, and grow tyrannicall, what
+meanes of ſafety could there be for a State.</p>
+            <p>
+               <hi>Anſw.</hi> I confeſſe the condition of ſuch a State would be very dan<g ref="char:EOLhyphen"/>gerous,
+and like to come to confuſion, particular men could not helpe
+themſelves, and the whole State ought to ſuffer much, before it ſhould
+helpe it ſelfe by any wayes of reſiſting, but if you can ſuppoſe a Parlia<g ref="char:EOLhyphen"/>ment
+ſo farre to degenerate, as all to conſpire together with the King
+to deſtroy the Kingdome, and to poſſeſſe the lands and riches of the
+Kingdome themſelves; in this caſe, whether a law of nature would not
+allow of ſtanding up to defend our ſelves, yea, to reaſſume the power gi<g ref="char:EOLhyphen"/>ven
+to them, to diſcharge them of that power they had, and to ſet up
+ſome other, I leave to the light of nature to judge.</p>
+            <p>
+               <hi>You will ſay,</hi> This cannot be, becauſe the higher Powers muſt not
+be reſiſted by any.</p>
+            <p>Anſw. <hi>This is not properly to reſiſt the power, but to diſcharge the
+power, and to ſet the power elſe-where</hi> (hitherto Mr. <hi>Burroughs</hi>) and
+is this all you can ſay of Mr. <hi>Burroughs?</hi> It is well malice it ſelfe
+can pick no worſe from his writings; and truly Sir, you might
+have ſpared your marginall hand and finger, except you inten<g ref="char:EOLhyphen"/>ded
+to direct the Reader to obſerve your ignorance and envy in
+collecting his ſaying, for firſt Mr. <hi>Burroughs</hi> did aſſert nothing,
+but left it to any mans determination whether the Law of Na<g ref="char:EOLhyphen"/>ture
+<pb n="29" facs="tcp:113729:17"/>
+would not allow of ſuch and ſuch a courſe, in ſuch and ſuch
+a caſe; and it ſeemes you the State caſe reſolver generall, under<g ref="char:EOLhyphen"/>takes
+the deciſion: Once more Mr. <hi>Bellamy<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> give us but this
+foundation to build upon (as none but malignant-royaliſts will
+deny it) <hi>viz. ſalus populi ſuprema lex,</hi> and then I thinke you will
+hardly like a wiſe and ſolid man ſpeak otherwiſe to that point;
+the reſt of your proceedings in your Vindication is of little
+worth, granting almoſt what the Replyer required, only I ſee
+you moſt extreamely ſhuffling in one point, that (were you nor
+ſo well skil'd in facings might make men wonder at you) and
+that is where the Replyer chargeth an untruth in the Remon<g ref="char:EOLhyphen"/>ſtrance,
+and bring in your ſelf to ſtand by him, and that is about
+the diſplacing or caſting out of Mr. <hi>Quarterman</hi> from his Mar<g ref="char:EOLhyphen"/>ſhall
+ſhip of <hi>London,</hi> the Remonſtrance ſaith the City did caſt
+him out, the Replyer ſaith the City did not caſt him out, but it
+was the Lord Major, and Court of Aldermen which are not the
+City either collective or repreſentative, &amp; in no ſenſe the City,
+as having power hereunto, and hee produceth you to ſtand by
+him. What, Maſter <hi>Bellamy,</hi> will you not ſtand by him; in
+your booke called a Plea for the Commonalty of <hi>London,</hi> wee
+have your judgement under your hand in blacke and white,
+and will you faulter now, you are called out to make it good?
+Had you not better been an <hi>Anonymus</hi> when you writ that
+booke: Then Maſter <hi>John Bellamy,</hi> what kind of man are you?
+They that obſerve your ſayings, what they have been former<g ref="char:EOLhyphen"/>ly
+concerning the King, concerning the Lords, concerning the
+power of the Commons, (whiſpering your thoughts in the ears
+of many that now ſpeak of it) what your carriages have been,
+not very long ſince, in the Common Councel, in or among your
+brethren the Stationers, the Committee appointed for the keep<g ref="char:EOLhyphen"/>ing
+up and maintaining the expoſitory Lectures, and what your
+carriages are now, ſtand with admiration and amazement at
+your wheeling thus about.</p>
+            <p>You ſay little more to the Replyer, only I find you once
+more in an extreame heat of paſſion againſt him becauſe he
+told the <hi>Remonſtrant,</hi>s of their preſſing the Parliament, to a ſud<g ref="char:EOLhyphen"/>daine
+payment of their debts &amp;c. you take on thus.</p>
+            <p>
+               <hi>What, is it now come to that paſſe, that when the City, and Cityzens
+<pb n="30" facs="tcp:113729:18"/>
+of</hi> London <hi>who have lent and expended, for the uſe and ſervice of the
+Parliament more and greater vaſt ſums of<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>money, then ever any, if not
+all the Cities in the Land have done, nay then ever any Citie in all the
+world</hi> (a great word Mr. <hi>Bellamy,</hi> and you need to be as able and
+dilligent a Reader as ſeller of bookes to make good what you
+ſay) <hi>have done at any one time to and for the ſervice of that State in
+which it ſtood, and yet muſt it now by an Anonymus, a Libeller, be tax<g ref="char:EOLhyphen"/>ed,</hi>
+&amp;c. Hold Mr. <hi>Bellamy,</hi> le<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'s have leſſe of your paſſion and
+more of your reaſon, doe not you give as juſt an occaſion for
+others to ſay, if they ſhould ſteer their pens by your compaſſe,
+<hi>What? is it now come to that paſſe?</hi> Shall not only the City (over<g ref="char:EOLhyphen"/>taken
+as the beſt of Ci<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies may ſometimes be) ſee forth as ſtrange
+a Remonſtrance, reflecting prejudice upon a Parliament, that
+have done more, and ſuffered more for them and by whom
+they have received more good, then by any Parliament that e<g ref="char:EOLhyphen"/>ver
+they had, nay (it is verily believed) then ever any Parlia<g ref="char:EOLhyphen"/>ment
+in the world ever did, for a City in any ſtate where it hath
+been, but muſt a private perſon, a <hi>John Bellamy,</hi> an Epiſcopall
+man, an Anti-Epiſcopall man, an An<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>baptiſt<g ref="char:punc">▪</g> an Anti-Anabap<g ref="char:EOLhyphen"/>tiſt,
+a Separate, an Anti Sep<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rate, an Epiſcopall man again, an
+Anti Epiſcopall man, a Presbyterian, a halfe Presbyterian, ſo
+bi-fronted, as to deny Presbyterie to be <hi>Jure Divino,</hi> and y<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t
+helping on the preſſing and inforcing of it upon his bret<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ren,
+that cannot ſubmit unto it, becauſe they cannot ſee it <hi>Jure De<g ref="char:EOLhyphen"/>vino,</hi>
+a Sectary, an Anti-Sectarie, a Schiſmatique, an Anti Schiſ<g ref="char:EOLhyphen"/>matique,
+a Scoffer at <hi>new lights, Doctrines of a new date,</hi> a ſome
+thing, an any thing, an every thing, muſt ſuch a man as this
+ſtand forth in print with his <hi>vindication</hi> of ſuch a <hi>Remonſtrance?</hi>
+            </p>
+            <p>You have a few words more yet to the Replyer he tells you,
+he knowes not your meaning <hi>by private and ſeparate Congrega<g ref="char:EOLhyphen"/>tions,</hi>
+you tell him what the <hi>City</hi> meanes, but truly Sir, except
+you ſhew your commiſſion to be the <hi>City Interpreter,</hi> you muſt
+give men leave yet to ſcruple what they meant thereby, he tells
+you again, he know<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not your meaning by: <hi>An<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>baptiſts and
+Browniſts,</hi> you tell him they mean thoſe ſo called by the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi>
+(not by the King) printed in the booke of Declarations,
+pag 659. What ever the Replyer thinkes, I believe the Remon<g ref="char:EOLhyphen"/>ſtrantes
+meanes thoſe who ever they be, that are but diſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffected
+<pb n="31" facs="tcp:113729:18"/>
+to Presbyteriall Government, as will eaſily appeare by compa<g ref="char:EOLhyphen"/>ring
+that ſecond Petition of the Remonſtrance, with the third
+and fourth, which next followes.</p>
+            <p>You find fault with the Replyer, becauſe he will not joyne
+with you in the third Petition, <hi>viz. that as wee are all ſub<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cts
+of one Kingdome, ſo all may be equally required to yeild obedience,
+to that government, ſet forth, or to be ſet forth by the Parliament;</hi>
+The Re<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yer ſaith, that ſuch a thing is againſt Religion and
+reaſon; you anſwer no, the meaning of this Petition, is that one
+Law may equal<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ob<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieg<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> every Subject in this Kingdome, and
+for this you give us a cluſter of proofes, you bid the Replyer
+make it out i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he can, <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f there was any more then one Law,
+that did bind the Church of <hi>Iſraell</hi> of old, in the times of any
+of the Pattiarchs, the Judges the Kings, the Governors, either
+before, in, or after the Captivity, o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſince the comming of
+Chriſt, or of the Apoſtles, either in the Churches of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,
+Antioch, Rome, Corinth, Galatia, Epheſus, Philippi, Co<g ref="char:EOLhyphen"/>loſſe,
+Theſſalouica, and the ſeven Churches of Aſia &amp;c.</hi> But
+what is all this to the point in hand? were any of theſe Churches
+you ſpeake of, governed by a politticall government? accor<g ref="char:EOLhyphen"/>ding
+to the prudence of the States wherein they were or, accor<g ref="char:EOLhyphen"/>ding
+to a divine rule given unto them from God? doe yon Mr.
+<hi>B<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llamy,</hi> with your bretheren <hi>Remo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtrants</hi> deſire the Parliame<g ref="char:cmbAbbrStroke">̄</g>t
+to ſettle that p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>forme of government which Chriſt hath ap<g ref="char:EOLhyphen"/>pointed,
+or no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no al<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> y<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur great <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cap of Scrip<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſtances
+are not to the purpoſe, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo be you doe ſo; Why then one
+turne more Mr. <hi>Bellamy,</hi> and conleſſe that though yeſterday
+you did not own any plat forme of Church government to be
+<hi>Juredi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ino</hi> yet to day you have new light (and if ſo, doe no
+longer jeare at new <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight) <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo be you hold Church govern<g ref="char:EOLhyphen"/>ment
+to be <hi>Jure politice,</hi> why then i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Parliament judge <hi>Jus po<g ref="char:EOLhyphen"/>liticum,</hi>
+to permit u<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en differing in judgment in that point,
+let them alone.</p>
+            <p>You have here done with the Replyer, and <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un to his Part<g ref="char:EOLhyphen"/>ner,
+and let him anſwer you, for I neither know him, nor his
+Book.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
